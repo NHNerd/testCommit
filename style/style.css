@@ -1,0 +1,8 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-size: 72px;
+}
+.head {
+  filter: blur(10px);
+}
