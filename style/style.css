@@ -4,5 +4,7 @@
   font-size: 72px;
 }
 .head {
-  filter: blur(10px);
+  font-size: 256px;
+  color: brown;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
